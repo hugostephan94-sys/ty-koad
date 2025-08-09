@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/generate-stripe-link.js",
-      "use": "@vercel/node"
-    }
-  ]
-}
